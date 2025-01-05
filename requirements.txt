@@ -1,2 +1,4 @@
-Django
-tzdata
+Django==3.x.x
+djangorestframework==3.x.x
+# Other dependencies...
+
